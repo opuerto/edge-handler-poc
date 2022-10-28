@@ -7,13 +7,7 @@
         alt="vue"
         class="logo"
       />
-      <h1>Welcome to Vue.js</h1>
-    </div>
-    <div class="bottom">
-      To get started, edit <code>./src/components/App.vue</code> and save to reload.<br/>
-      <span class="fade">
-        Checkout <code>./README.md</code> for more usages.
-      </span>
+      <h1>SPLIT-TEST-BRANCH</h1>
     </div>
   </div>
 </template>
